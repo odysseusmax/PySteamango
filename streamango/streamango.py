@@ -9,7 +9,7 @@ from .api_exceptions import *
 
 
 class Streamango(object):
-    api_base_url = 'https://api.fruithosted.net'
+    api_base_url = 'https://api.fruithosted.net/'
 
     def __init__(self, api_login, api_key, timeout=30.0):
         """Initializes Verystream instance with given parameters and formats api base url.
