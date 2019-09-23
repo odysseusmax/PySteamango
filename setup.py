@@ -10,7 +10,7 @@ with copen(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='pyvstreamango',
-    version='0.1.0',
+    version='0.1.1',
     description='Python wrapper for streamango.com API',
     long_description=long_description,
     url='https://github.com/odysseusmax/PySteamango/',
