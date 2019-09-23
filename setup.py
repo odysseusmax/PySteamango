@@ -9,7 +9,7 @@ with copen(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='pyvstreamango',
+    name='pystreamango',
     version='0.1.1',
     description='Python wrapper for streamango.com API',
     long_description=long_description,
