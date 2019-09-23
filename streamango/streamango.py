@@ -8,8 +8,8 @@ import requests_toolbelt
 from .api_exceptions import *
 
 
-class Verystream(object):
-    api_base_url = 'https://api.verystream.com/'
+class Streamango(object):
+    api_base_url = 'https://api.fruithosted.net'
 
     def __init__(self, api_login, api_key, timeout=30.0):
         """Initializes Verystream instance with given parameters and formats api base url.
