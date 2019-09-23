@@ -1,4 +1,4 @@
-# Streamango
+# PyStreamango
 
 Python wrapper for [streamango.com API](https://streamango.com/api "Streamango API")
 
