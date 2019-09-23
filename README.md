@@ -1,12 +1,12 @@
 # PyVeryStream
 
-Python wrapper for [streamango.com API](https://streamango.com/api "Verystream API")
+Python wrapper for [streamango.com API](https://streamango.com/api "Streamango API")
 
 ## Install
 
 ``` bash
 
-    $ pip install git+https://github.com/odysseusmax/PySteamango.git
+    $ pip install git+https://github.com/odysseusmax/PyStreamango.git
 ```
 
 
